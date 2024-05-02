@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Reflection;
 using Microsoft.Extensions.Configuration;
-using Microsoft.KernelMemory.Configuration;
+using Microsoft.KernelMemory;
 
 namespace CopilotChat.Shared;
 
